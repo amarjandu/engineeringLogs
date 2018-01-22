@@ -3,12 +3,8 @@
 
 ## Project Structure
 
- ````
- .
- |--Topic
-    |--subTopics
-
- ````
+* Chemistry
+    * [Material Plating](https://amarjandu.github.io/engineeringLogs/chem/platingMetals)
 
 FileTypes should be explandable in HTML, so things like compiled R-Notebooks, .md files would be correct format, this also allows for quicker publications.
 
